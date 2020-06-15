@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Abu Dhabi
-tags: example-tag
+tags: abu dhaib
 level: 0
 
-region: Middle East
+region: Asia
 
 auto-migrated: 1
 
