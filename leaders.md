@@ -1,5 +1,5 @@
 ### Leaders
 
- * [Thomas Weilbach](mailto:)
- * [Michael Bester](mailto:)
+ * [Thomas Weilbach](mailto:thomas.weilbach@owasp.org)
+ * [Michael Bester](mailto:michael.bester@owasp.org)
 
