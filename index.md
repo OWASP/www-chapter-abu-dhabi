@@ -8,7 +8,6 @@ meetup-group: owasp-abu-dhabi
 
 region: Asia
 country: United Arab Emirates
-auto-migrated: 1
 
 ---
 
@@ -18,8 +17,7 @@ auto-migrated: 1
 All of our meetings and meeting details can be found on our Meetup page.
 Please visit <https://www.meetup.com/OWASP-Abu-Dhabi/events/> to view our upcoming and past meetings.
 
-[
-<img src="assets/images/logo-meetup.svg" style="width: 40%;" alt="OWASP AD on Meetup.com" />](http://www.meetup.com/OWASP-Abu-Dhabi)
+[<img src="assets/images/logo-meetup.svg" style="width: 40%;" alt="OWASP Abu Dhabi on Meetup.com" />](http://www.meetup.com/OWASP-Abu-Dhabi)
 <br style="clear: left;"/>
 
 {% include chapter_events.html group=page.meetup-group %}
