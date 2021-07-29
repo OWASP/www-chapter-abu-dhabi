@@ -39,6 +39,6 @@ We encourage diversity in all our initiatives. OWASP is a fantastic place to lea
 Financial contributions should only be made online using the authorized online [donation](/donate) button at the top of this page. For non-financial sponsorship, please reach out to any of the listed Abu Dhabi chapter leaders.
 
 ## Partnerships
-We're especially interested in partnering with local educational institutions to encourage the participations of students in the chapter and to showcase the possibilities of careers in application security.
+We're especially interested in partnering with local educational institutions to encourage the participation of students in the chapter and to showcase the possibilities of careers in application security.
 
 If you represent one of these institutions, please do not hesitate to contact the listed leadership team to see how we can form a mutually beneficial partnership.
