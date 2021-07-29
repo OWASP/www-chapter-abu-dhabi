@@ -33,8 +33,8 @@ Chapters are led by local leaders in accordance with the [Chapter Leader Handboo
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
 
-##Sponsorship
+## Sponsorship
 Financial contributions should only be made online using the authorized online [donation](/donate) button at the top of this page. For non-financial sponsorship, please reach out to any of the listed Abu Dhabi chapter leaders.
 
-##Partnerships
+## Partnerships
 We're especially interested in partnering with local educational institutions to encourage the participations of students in the chapter and to showcase the possibilities of careers in application security. If you represent one of these institutions, please do not hesitate to contact the listed leadership team to see how we can form a mutually beneficial partnership.
