@@ -2,10 +2,12 @@
 
 layout: col-sidebar
 title: OWASP Abu Dhabi
-tags: abu dhabi
+site_side: true
+tags: abu-dhabi
 level: 0
 meetup-group: owasp-abu-dhabi
 region: Asia
+altfooter: true
 country: United Arab Emirates
 
 ---
