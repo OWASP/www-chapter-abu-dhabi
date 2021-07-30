@@ -5,7 +5,6 @@ title: OWASP Abu Dhabi
 tags: abu dhabi
 level: 0
 meetup-group: owasp-abu-dhabi
-
 region: Asia
 country: United Arab Emirates
 
