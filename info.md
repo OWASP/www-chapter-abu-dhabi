@@ -4,4 +4,4 @@
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-abu-dhabi/)
 * [Twitter](https://twitter.com)
-* [Slack](https://join.slack.com/share/zt-v6n66wdy-0jCou2PmdSfyn6T_JlJMzw)
+* [Slack](https://owasp.slack.com/archives/C027EJHE0S3)
