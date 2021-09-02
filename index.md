@@ -14,7 +14,7 @@ country: United Arab Emirates
 
 Welcome to the Abu Dhabi chapter homepage!
 
-<img src="assets/images/Owasp%20Abu%20Dhabi_Logo_Skyline_Twitter.PNG" style="width: 30%; height: 30%;" alt="OWASP Abu Dhabi Logo" />
+<img src="assets/images/Owasp%20Abu%20Dhabi_Logo_Dunes01.PNG" style="width: 50%; height: 50%;" alt="OWASP Abu Dhabi Logo" />
 
 #### Check our Upcoming Meetup Events:
 All of our meetings and meeting details can be found on our Meetup page.
@@ -24,8 +24,6 @@ Please visit <https://www.meetup.com/OWASP-Abu-Dhabi/events/> to view our upcomi
 <br style="clear: left;"/>
 
 {% include chapter_events.html group=page.meetup-group %}
-
-<img src="assets/images/Owasp%20Abu%20Dhabi_Logo_Dunes.PNG" style="width: 30%; height: 30%;" alt="OWASP Abu Dhabi Logo" />
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
