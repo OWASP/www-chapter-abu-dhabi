@@ -14,7 +14,7 @@ country: United Arab Emirates
 
 Welcome to the Abu Dhabi chapter homepage!
 
-<img src="assets/images/Owasp%20Abu%20Dhabi_Logo_Dunes01.PNG" style="width: 50%; height: 50%;" alt="OWASP Abu Dhabi Logo" />
+<img src="assets/images/Owasp%20Abu%20Dhabi_Logo_Dunes_Twitter-01.PNG" style="width: 50%; height: 50%;" alt="OWASP Abu Dhabi Logo" />
 
 #### Check our Upcoming Meetup Events:
 All of our meetings and meeting details can be found on our Meetup page.
